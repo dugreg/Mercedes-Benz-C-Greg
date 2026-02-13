@@ -5,7 +5,7 @@
   ]},
 { "hdr": "7E5", "dbg": true, "cmd": {"22": "2005"}, "freq": 1,
   "signals": [
-    {"id": "MERCEDES_AUX_V", "path": "Battery", "fmt": { "len": 8, "max": 25.9, "mul": 25.9, "div": 255, "unit": "volts" }, "name": "Auxiliary battery voltage", "suggestedMetric": "starterBatteryVoltage"}
+    {"id": "MERCEDES_AUX_V", "path": "Battery", "fmt": { "len": 8, "max": 25.9, "mul": 25.9, "div": 255, "unit": "volts" }, "name": "Zob battery voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
 { "hdr": "7E5", "dbg": true, "cmd": {"22": "2526"}, "freq": 5,
   "signals": [
